@@ -9,6 +9,9 @@ HTML para realizar la estructura del sitio
 javaScript para el dinamismo del sitio.
 PHP para hacer las peticiones por http al servidor que contiene la base datos.
 Xampp para crear un servido con una base de datos SQL
+Bootstrap para el diseño Fronte-End del sitio.
+
+
 
 
 
